@@ -5,6 +5,7 @@
 2. [Context and Business Goals](#context-and-business-goals)
 3. [Stakeholders](#stakeholders)
 4. [Technical Requirements](#technical-requirements)
+5. [Proposed Solution](#proposed-solution)
 
 ## Abstract
 
@@ -39,4 +40,19 @@ The Key technical requirements for GenAiGraphics are as follows:
 5. Robust backend : An Express server to manage API reuqests and data storage.
 
 
+## Proposed Solution
+1. Phase 1: Research and Planning
+- Conduct user research to identify user needs and gather feedback from stakeholders
+- Define the scope, requirements, and timeline for the project
+2. Phase 2: Development
+- Build the front-end interface using the Astro framework and Tailwind CSS
+- Develop the core WebGL class using Three.js 
+- Integrate the Azure ML Prompt Flow API for AI chat functionality 
+- Set up the Express server for backend support
+3. Phase 3: Testing and Iteration
+- Conduct extensive testing to ensure the application is bug-free and user-friendly
+- Gather feedback from beta users and iterate on the design
+4. Phase 4: Deployment
+- Deploy the application to a Azure cloud server
+- Monitor performance and user feedback to make further improvements
 
