@@ -4,6 +4,7 @@
 1. [Abstract](#abstract)
 2. [Context and Business Goals](#context-and-business-goals)
 3. [Stakeholders](#stakeholders)
+4. [Technical Requirements](#technical-requirements)
 
 ## Abstract
 
@@ -26,10 +27,28 @@ The key business goals of GenAiGraphics are as follows:
 - Development Team : Responsible for the implementation and deployment of the solution
 - Users : The end users who will interact with the GenAiGraphics application
 
+## Technical Requirements
+
+To accurately capture the 3D graphics we conducted extensive user research, gathered feedback from customer support, and reviewed existing literature on 3D graphics rendering and AI integration. 
+
+The Key technical requirements for GenAiGraphics are as follows:
+1. 3D Graphics Rendering : Utiliazation of WebGL and Three.js to render high-quality interactive 3D graphics
+2. AI Chat Functionality : Integration with Azure ML Prompt Flow for intelligent, responsive chat interactions.
+3. User-Friendly Interface : Development using the Astro framework and Tailwind CSS for a seamless and visually appealing user experience.
+4. Scalability and Performance : Ensuring the application can handle a large number of users and complex models efficiently.
+5. Robust backend : An Express server to manage API reuqests and data storage.
 
 
 
 
+- Added the Technical Requirements section to the Table of Contents.
+- Included detailed technical requirements for the GenAiGraphics project:
+  1. 3D Graphics Rendering: Utilization of WebGL and Three.js for high-quality interactive 3D graphics.
+  2. AI Chat Functionality: Integration with Azure ML Prompt Flow for intelligent, responsive chat interactions.
+  3. User-Friendly Interface: Development using the Astro framework and Tailwind CSS for a seamless and visually appealing user experience.
+  4. Scalability and Performance: Ensuring the application can handle a large number of users and complex models efficiently.
+  5. Robust backend: An Express server to manage API requests and data storage.
+- Mentioned the extensive user research, customer support feedback, and literature review conducted to capture accurate 3D graphics requirements.
 
 
 
