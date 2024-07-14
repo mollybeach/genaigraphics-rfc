@@ -40,26 +40,3 @@ The Key technical requirements for GenAiGraphics are as follows:
 
 
 
-
-- Added the Technical Requirements section to the Table of Contents.
-- Included detailed technical requirements for the GenAiGraphics project:
-  1. 3D Graphics Rendering: Utilization of WebGL and Three.js for high-quality interactive 3D graphics.
-  2. AI Chat Functionality: Integration with Azure ML Prompt Flow for intelligent, responsive chat interactions.
-  3. User-Friendly Interface: Development using the Astro framework and Tailwind CSS for a seamless and visually appealing user experience.
-  4. Scalability and Performance: Ensuring the application can handle a large number of users and complex models efficiently.
-  5. Robust backend: An Express server to manage API requests and data storage.
-- Mentioned the extensive user research, customer support feedback, and literature review conducted to capture accurate 3D graphics requirements.
-
-
-
-
-
-
-docs: Update and expand RFC for GenAiGraphics project
-
-- Updated the RFC title to "Revolutionizing Tech Setup with 3D-AI Interactive Guides with GenAiGraphics."
-- Expanded the Table of Contents to include the Stakeholders section.
-- Repeated and reformatted the Abstract for clarity and emphasis.
-- Added a detailed Context and Business Goals section, highlighting the challenges faced by users with complex technology setups and how GenAiGraphics aims to address these challenges.
-- Listed key business goals: reducing errors and support costs, enhancing user experience and satisfaction, streamlining the setup process, and providing a competitive edge.
-- Included a Stakeholders section outlining the roles of the Product Team, Development Team, and Users.
