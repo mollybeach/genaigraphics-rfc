@@ -12,9 +12,9 @@
 9. [Challenges and Trade-offs](#challenges-and-trade-offs)
 10. [Getting Started](#getting-started)
 11. [Demo Showcase](#demo-showcase)
-12. [How it Works 🛠](#how-it-works-🛠)
-13. [Application Flowchart 🌐](#application-flowchart-🌐)
-14. [Project Structure 📁](#project-structure-📁)
+12. [How it Works](#how-it-works)
+13. [Application Flowchart](#application-flowchart)
+14. [Project Structure](#project-structure)
 
 ## Abstract
 
@@ -137,10 +137,6 @@ npm run start
 ## Demo Showcase
 
 <img src="media/lighting-sculpture.gif" alt="Lighting Sculpture"/>
-
-
-<summary>More Application Screenshots 📸</summary>
-<img src="media/lighting-sculpture.gif" alt="Lighting Sculpture"/>
 <img src="media/router-green-button.png" alt="Router Green Button"/>
 <img src="media/brand-agent.png" alt="Brand Agent"/>
 <img src="media/cable-router.png" alt="Cable Router"/>
@@ -175,7 +171,7 @@ npm run start
 - The ChatRecommendationBar Component subscribes to $recommendations to display recommendation buttons.
 - The ChatBar Component updates the textarea with selected recommendations, ensuring smooth user interaction.️
 
-## Application Flowchart 🌐
+## Application Flowchart
 
 ```plaintext
 Start
@@ -365,7 +361,7 @@ End
 
 ```
 
-## Project Structure 📁
+## Project Structure
 Inside of GenAiGraphics project, you'll see the following folders and files:
 
 ```
