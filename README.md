@@ -128,10 +128,10 @@ npm install
 ```
 npm run start
 ```
-![genaigraphics Application Screenshot](https://github.com/mollybeach/genaigraphics/blob/master/media/lighting-sculpture.gif)
+<img src="media/lighting-sculpture.gif" alt="Lighting Sculpture"/>
 
 <details>
-  <summary>Application Screenshots 📸</summary>
+  <summary>More Application Screenshots 📸</summary>
   <img src="media/lighting-sculpture.gif" alt="Lighting Sculpture"/>
   <img src="media/router-green-button.png" alt="Router Green Button"/>
   <img src="media/brand-agent.png" alt="Brand Agent"/>
