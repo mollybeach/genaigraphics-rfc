@@ -10,8 +10,8 @@
 7. [Implementation Plan](#implementation-plan)
 8. [Measuring Success](#measuring-success)
 9. [Challenges and Trade-offs](#challenges-and-trade-offs)
-10. [Getting Started 🔧](#getting-started-🔧)
-11. [Demo Showcase 📸](#demo-showcase-📸)
+10. [Getting Started](#getting-started)
+11. [Demo Showcase](#demo-showcase)
 12. [How it Works 🛠](#how-it-works-🛠)
 13. [Application Flowchart 🌐](#application-flowchart-🌐)
 14. [Project Structure 📁](#project-structure-📁)
@@ -134,7 +134,7 @@ npm install
 npm run start
 ```
 
-## Demo Showcase 📸
+## Demo Showcase
 
 <img src="media/lighting-sculpture.gif" alt="Lighting Sculpture"/>
 
@@ -152,7 +152,7 @@ npm run start
 <img src="media/home-page.png" alt="Home Page"/>
 
 
-## How it Works 🛠  
+## How it Works 
 
 ### 1. User Interaction 🖱️:
 - The user types a question into the ChatBar Component and submits it.
