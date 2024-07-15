@@ -10,6 +10,11 @@
 7. [Implementation Plan](#implementation-plan)
 8. [Measuring Success](#measuring-success)
 9. [Challenges and Trade-offs](#challenges-and-trade-offs)
+10. [Getting Started 🔧](#getting-started)
+11. [Demo Showcase 📸](#demo-showcase)
+12. [How it Works 🛠](#how-it-works)
+13. [Application Flowchart 🌐](#application-flowchart)
+14. [Project Structure 📁](#project-structure)
 
 ## Abstract
 
@@ -128,6 +133,9 @@ npm install
 ```
 npm run start
 ```
+
+## Demo Showcase 📸
+
 <img src="media/lighting-sculpture.gif" alt="Lighting Sculpture"/>
 
 <details>
