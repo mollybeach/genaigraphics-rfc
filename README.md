@@ -138,19 +138,19 @@ npm run start
 
 <img src="media/lighting-sculpture.gif" alt="Lighting Sculpture"/>
 
-<details>
-  <summary>More Application Screenshots 📸</summary>
-  <img src="media/lighting-sculpture.gif" alt="Lighting Sculpture"/>
-  <img src="media/router-green-button.png" alt="Router Green Button"/>
-  <img src="media/brand-agent.png" alt="Brand Agent"/>
-  <img src="media/cable-router.png" alt="Cable Router"/>
-  <img src="media/home-page.png" alt="Home Page"/>
-  <img src="media/readme_ModelBoomBox.png" alt="Model BoomBox"/>
-  <img src="media/readme_ModelWifiExtender.png" alt="Model Wifi Extender"/>
-  <img src="media/readme_ModelLaptop.png" alt="Model Laptop"/>
-  <img src="media/router-green-button.png" alt="Router Green Button"/>
-  <img src="media/home-page.png" alt="Home Page"/>
-</details>
+
+<summary>More Application Screenshots 📸</summary>
+<img src="media/lighting-sculpture.gif" alt="Lighting Sculpture"/>
+<img src="media/router-green-button.png" alt="Router Green Button"/>
+<img src="media/brand-agent.png" alt="Brand Agent"/>
+<img src="media/cable-router.png" alt="Cable Router"/>
+<img src="media/home-page.png" alt="Home Page"/>
+<img src="media/readme_ModelBoomBox.png" alt="Model BoomBox"/>
+<img src="media/readme_ModelWifiExtender.png" alt="Model Wifi Extender"/>
+<img src="media/readme_ModelLaptop.png" alt="Model Laptop"/>
+<img src="media/router-green-button.png" alt="Router Green Button"/>
+<img src="media/home-page.png" alt="Home Page"/>
+
 
 ## How it Works 🛠  
 
