@@ -10,11 +10,11 @@
 7. [Implementation Plan](#implementation-plan)
 8. [Measuring Success](#measuring-success)
 9. [Challenges and Trade-offs](#challenges-and-trade-offs)
-10. [Getting Started 🔧](#getting-started)
-11. [Demo Showcase 📸](#demo-showcase)
-12. [How it Works 🛠](#how-it-works)
-13. [Application Flowchart 🌐](#application-flowchart)
-14. [Project Structure 📁](#project-structure)
+10. [Getting Started 🔧](#getting-started-🔧)
+11. [Demo Showcase 📸](#demo-showcase-📸)
+12. [How it Works 🛠](#how-it-works-🛠)
+13. [Application Flowchart 🌐](#application-flowchart-🌐)
+14. [Project Structure 📁](#project-structure-📁)
 
 ## Abstract
 
@@ -574,4 +574,3 @@ All commands are run from the root of the project, from a terminal:
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
 .
-
