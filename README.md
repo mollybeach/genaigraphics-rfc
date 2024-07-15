@@ -6,6 +6,10 @@
 3. [Stakeholders](#stakeholders)
 4. [Technical Requirements](#technical-requirements)
 5. [Proposed Solution](#proposed-solution)
+6. [Key Features](#key-features)
+7. [Implementation Plan](#implementation-plan)
+8. [Measuring Success](#measuring-success)
+9. [Challenges and Trade-offs](#challenges-and-trade-offs)
 
 ## Abstract
 
@@ -55,4 +59,45 @@ The Key technical requirements for GenAiGraphics are as follows:
 4. Phase 4: Deployment
 - Deploy the application to a Azure cloud server
 - Monitor performance and user feedback to make further improvements
+
+## Key Features
+
+1. Visual Technology Set Up Assistance helps users navigate technology setups with interactive 3D models that demonstrate specific actions.
+2. WebGL Integration: Manages rendering, scenes, camera control, resizing events, and frame animations.
+3. AI Chat Functionality: Provides intelligent responses, recommendations for the users next messages based on user queries.
+4. Server-Side Operations: Manages API requests, data storage, and user authentication.
+
+
+## Implementation Plan
+
+1. Conduct user research and gather feedback from stakeholders
+2. Define the scope, requirements, and timeline for the project
+3. Develop the front-end interface using the Astro framework and Tailwind CSS
+4. Build the core WebGL class using Three.js
+5. Integrate the Azure ML Prompt Flow API for AI chat functionality
+6. Set up the Express server for backend support
+7. Conduct extensive testing and gather feedback from beta users
+8. Deploy the application to an Azure cloud server
+9. Monitor performance and user feedback to make further improvements
+
+## Measuring Success
+
+The success of the GenAiGraphics application will be measured based on the following key metrics:
+
+1. User Engagement: The number of users interacting with the application and the average session duration.
+2. Error Reduction: Reduction in the number of support tickets related to technology set up issues.
+3. Engagement: User engagement metrics such as time spent on the application and interaction rates.
+4. Performance: System performance metrics such as response time and scalability.
+
+## Challenges and Trade-offs
+
+### Challenges
+
+- Complex of 3D Models: Ensuring the 3D models are both realistic and performant and can be challenging.
+- AI Integration: Providing accurate and helpful AI responses requires robust training and fine-tuning of the models.
+
+### Trade-offs
+- Performance vs Realism: Balancing performance and realism of the 3D models with the need for a responsive and performant application.
+- Development Time vs Features: Prioritizing key features to ensure a timely launch while planning for future enhancements.
+
 
